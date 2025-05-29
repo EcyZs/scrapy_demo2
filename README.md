@@ -53,7 +53,7 @@
 ---
 
 ## 📁 项目结构
-
+```bash
 D:.
 │  情感分析.py # 负责情感打分与可视化
 │  爬虫.py # 负责评论采集（Playwright 自动化）
@@ -61,6 +61,7 @@ D:.
 └─ DATA
 ├──  comments.csv # 原始评论数据
 └──  comments_with_sentiment.csv # 含情感分析字段的处理结果
+```
 
 
 
