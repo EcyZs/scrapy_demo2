@@ -62,4 +62,7 @@ D:.
 ├──  comments.csv # 原始评论数据
 └──  comments_with_sentiment.csv # 含情感分析字段的处理结果
 
+
+
+
 ![Figure_1](https://github.com/user-attachments/assets/b72befff-c4b7-4ba5-a62f-3445375a2238)
